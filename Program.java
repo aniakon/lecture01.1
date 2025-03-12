@@ -3,5 +3,6 @@ public class Student{
 	Strin lastName = "";
 
 	// comment
-	// something else
-}
+	// somethinr else
+	public void login(){}
+}	
