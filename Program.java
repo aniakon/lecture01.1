@@ -8,6 +8,7 @@ public class Student{
 	public void login(){
 		int count = 0;
 		String password = "";
+		String login = "";
 	}
 		
 }	
