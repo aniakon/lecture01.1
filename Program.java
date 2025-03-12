@@ -1,6 +1,6 @@
 public class Student{
-	String name = "";
-	Strin lastName = "";
+	String name = ""; // i added some kind of fix in this file
+	String lastName = "";
 
 	// comment
 	// something else
