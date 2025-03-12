@@ -4,5 +4,8 @@ public class Student{
 
 	// comment
 	// somethinr else
-	public void login(){}
+	public void login(){
+		int count = 0;
+	}
+		
 }	
