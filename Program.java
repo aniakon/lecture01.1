@@ -7,7 +7,8 @@ public class Student{
 	// more text
 	public void login(){
 		int count = 0;
-		String change = "";
+		String password = "";
+		String login = "";
 	}
 		
 }	
